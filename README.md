@@ -34,7 +34,7 @@ otherwise click on "Undo" and repeat until all the squares gets properly covered
 ## requisitos técnicos:
 
 - Obten la versión más actualizada de [pywin32](https://sourceforge.net/projects/pywin32/files/pywin32/)
-- instala [python](https://www.python.org/downloads/) (recommendadi 3.4.4), y añádelo a la variable PATH
+- instala [python](https://www.python.org/downloads/) (recommendado 3.4.4), y añádelo a la variable PATH
 
 ## sistemas operativos soportados
 - Win 8, XP (probablemente más, ¡pruébalos y danos tu opinion!)
