@@ -1,5 +1,9 @@
 # Spanish instructions (Instrucciones en Español)
 
+## Instrucciones en otros idiomas
+
+- [Inglés (English)] (https://github.com/Boniato82/punio/blob/master/README.md)
+
 ## requisitos técnicos:
 
 - Obten la versión más actualizada de pywin32
