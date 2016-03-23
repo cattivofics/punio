@@ -7,6 +7,7 @@
 
 ## supported operative systems
 - Win 8, XP (probably others, but we did not test them yet, give us your feedback!)
+- Win 7 pro 32 bit
 
 ## how it works
 punio connects with your DGT via USB or Serial ports, detects which square gets updated every time a piece is removed
