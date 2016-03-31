@@ -415,9 +415,9 @@ class ExampleApp(Tk):
 
         try:
             self.msg.set('Trying to click on "{}"'.format(square_to_click['name']))
-            time.sleep(0.2)
+            time.sleep(0.01)
             pyautogui.mouseDown(x, y)
-            time.sleep(0.2)
+            time.sleep(0.01)
             pyautogui.mouseUp(x, y)
         except Exception as e:
             self.msg.set(str(e))
