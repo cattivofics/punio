@@ -15,7 +15,7 @@ or dropped and send clicks to the screen. In order to work punio needs the app c
 (the browser) always on top, and the hosting application should allow the make of moves by clicks.
 
 ## how to use it
-- make sure the DGT board is connected and the driver not started (we don't want to use the original softeware from DGT)
+- make sure the DGT board is connected and the driver not started (we don't want to use the original software from DGT)
 - open your favourite chess website and open a chessboard (make sure this will be the final layout, don't change 
 the location of the window when all is set), use an analysis board the first time
 - open the windows command prompt
