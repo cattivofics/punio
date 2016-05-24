@@ -1,5 +1,8 @@
 # punio
 
+## Instructions in other Languages
+- [Spanish (Español)] (https://github.com/Boniato82/punio/blob/master/README_ES.md)
+
 ## requirements:
 
 - get the proper version of [pywin32](https://sourceforge.net/projects/pywin32/files/pywin32/)
@@ -30,3 +33,5 @@ otherwise click on "Undo" and repeat until all the squares gets properly covered
 - click on "Start" to initialize the port communication
 - bring the browser with your chessboard on top and remove a piece, you should see a new message on the status bar 
 (Trying to click "something") and the piece selected in the chess website.
+
+
